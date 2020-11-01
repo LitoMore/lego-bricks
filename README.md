@@ -2,13 +2,13 @@
 
 List of LEGO® Bricks I already own
 
-## LEGO® CLASSIC
-
-- [10698](https://www.lego.com/en-us/product/lego-large-creative-brick-box-10698) - LEGO® Large Creative Brick Box
-
 ## LEGO® CITY
 
 - [60226](https://www.lego.com/en-us/product/mars-research-shuttle-60226) - Mars Research Shuttle
+
+## LEGO® CLASSIC
+
+- [10698](https://www.lego.com/en-us/product/lego-large-creative-brick-box-10698) - LEGO® Large Creative Brick Box
 
 ## LEGO® IDEAS
 
