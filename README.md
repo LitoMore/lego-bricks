@@ -2,17 +2,39 @@
 
 List of LEGO® Bricks I already own
 
+<div align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-city.png" align="right">
+</div>
+
 ## LEGO® CITY
 
 - [60226](https://www.lego.com/en-us/product/mars-research-shuttle-60226) - Mars Research Shuttle
+
+<br /><br />
+
+<div align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-classic.png" align="right">
+</div>
 
 ## LEGO® CLASSIC
 
 - [10698](https://www.lego.com/en-us/product/lego-large-creative-brick-box-10698) - LEGO® Large Creative Brick Box
 
+<br /><br />
+
+<div align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-ideas.png" align="right">
+</div>
+
 ## LEGO® IDEAS
 
 - [21323](https://www.lego.com/en-us/product/grand-piano-21323) - Grand Piano
+
+<br /><br />
+
+<div align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-technic.png" align="right">
+</div>
 
 ## LEGO® TECHNIC
 
@@ -25,6 +47,8 @@ List of LEGO® Bricks I already own
 - [42105](https://www.lego.com/en-us/product/catamaran-42105) - Catamaran
 - [42107](https://www.lego.com/en-us/product/ducati-panigale-v4-r-42107) - Ducati Panigale V4 R
 - [42108](https://www.lego.com/en-us/product/mobile-crane-42108) - Mobile Crane
+
+<br /><br />
 
 ## Related
 
