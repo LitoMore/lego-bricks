@@ -1,6 +1,6 @@
-# LEGO® Bricks
+<h1 align="center">LEGO® Bricks</h1>
 
-List of LEGO® Bricks I already own
+<p align="center">List of LEGO® Bricks I already own</p>
 
 <div align="right">
   <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-city.png" align="right">
