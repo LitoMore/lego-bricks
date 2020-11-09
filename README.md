@@ -19,6 +19,7 @@
 ## LEGO® CLASSIC
 
 - [10698](https://www.lego.com/en-us/product/lego-large-creative-brick-box-10698) - LEGO® Large Creative Brick Box
+- [10701](https://www.lego.com/en-us/product/gray-baseplate-10701) - Gray Baseplate
 
 <br /><br />
 
