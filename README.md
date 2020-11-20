@@ -3,8 +3,18 @@
 <p align="center">List of LEGO® Bricks I already own</p>
 
 <div align="right">
+  <img height="50px" src="https://www.lego.com/cdn/cs/set/assets/blt74d9b821ba4db6f2/architecture--201606--gl--logo-black.png" align="right">
+</div>
+
+## LEGO® Architecture
+
+- [21052](https://www.lego.com/en-us/product/dubai-21052) - Dubai
+
+<div align="right">
   <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-city.png" align="right">
 </div>
+
+<br /><br />
 
 ## LEGO® CITY
 
@@ -20,6 +30,16 @@
 
 - [10698](https://www.lego.com/en-us/product/lego-large-creative-brick-box-10698) - LEGO® Large Creative Brick Box
 - [10701](https://www.lego.com/en-us/product/gray-baseplate-10701) - Gray Baseplate
+
+<br /><br />
+
+<div align="right">
+  <img height="50px" src="https://www.lego.com/cdn/cs/set/assets/blt736b2d676ffde96d/creator_logo_pos_300w.png" align="right">
+</div>
+
+## LEGO® CREATOR
+
+- [30573](https://www.lego.com/en-us/service/buildinginstructions/30573) - Santa
 
 <br /><br />
 
