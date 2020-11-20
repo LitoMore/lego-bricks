@@ -10,11 +10,11 @@
 
 - [21052](https://www.lego.com/en-us/product/dubai-21052) - Dubai
 
+<br /><br />
+
 <div align="right">
   <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-city.png" align="right">
 </div>
-
-<br /><br />
 
 ## LEGO® CITY
 
