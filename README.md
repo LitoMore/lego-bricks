@@ -34,7 +34,7 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://www.lego.com/cdn/cs/set/assets/blt736b2d676ffde96d/creator_logo_pos_300w.png" align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-creator.png" align="right">
 </div>
 
 ## LEGO® CREATOR
