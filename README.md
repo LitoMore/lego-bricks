@@ -71,6 +71,12 @@
 
 <br /><br />
 
+## Others
+
+- [853960](https://www.lego.com/en-us/product/lego-2x6-key-chain-853960) - LEGO® 2x6 Key Chain
+
+<br /><br />
+
 ## Related
 
 - [Games](https://github.com/LitoMore/games) - My video games
