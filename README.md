@@ -3,7 +3,7 @@
 <p align="center">List of LEGO® Bricks I already own</p>
 
 <div align="right">
-  <img height="50px" src="https://www.lego.com/cdn/cs/set/assets/blt74d9b821ba4db6f2/architecture--201606--gl--logo-black.png" align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-architecture.png" align="right">
 </div>
 
 ## LEGO® Architecture
