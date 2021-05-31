@@ -3,7 +3,17 @@
 <p align="center">List of LEGO® Bricks I already own</p>
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-architecture.png" align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/harry-potter.png" align="right" />
+</div>
+
+## Harry Potter™
+
+- [76382](https://www.lego.com/en-us/product/hogwarts-moment-transfiguration-class-76382) - Hogwarts™ Moment: Transfiguration Class
+
+<br /><br />
+
+<div align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-architecture.png" align="right" />
 </div>
 
 ## LEGO® Architecture
@@ -13,7 +23,7 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-city.png" align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-city.png" align="right" />
 </div>
 
 ## LEGO® CITY
@@ -23,7 +33,7 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-classic.png" align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-classic.png" align="right" />
 </div>
 
 ## LEGO® CLASSIC
@@ -34,7 +44,7 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-creator.png" align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-creator.png" align="right" />
 </div>
 
 ## LEGO® CREATOR
@@ -44,7 +54,7 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-ideas.png" align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-ideas.png" align="right" />
 </div>
 
 ## LEGO® IDEAS
@@ -54,7 +64,7 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-technic.png" align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-technic.png" align="right" />
 </div>
 
 ## LEGO® TECHNIC
