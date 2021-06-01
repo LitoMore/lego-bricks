@@ -9,6 +9,7 @@
 ## Harry Potter™
 
 - [76382](https://www.lego.com/en-us/product/hogwarts-moment-transfiguration-class-76382) - Hogwarts™ Moment: Transfiguration Class
+- [76383](https://www.lego.com/en-us/product/hogwarts-moment-potions-class-76383) - Hogwarts™ Moment: Potions Class
 
 <br /><br />
 
