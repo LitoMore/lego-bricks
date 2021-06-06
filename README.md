@@ -10,6 +10,8 @@
 
 - [76382](https://www.lego.com/en-us/product/hogwarts-moment-transfiguration-class-76382) - Hogwarts™ Moment: Transfiguration Class
 - [76383](https://www.lego.com/en-us/product/hogwarts-moment-potions-class-76383) - Hogwarts™ Moment: Potions Class
+- [76384](https://www.lego.com/en-us/product/hogwarts-moment-herbology-class-76384) - Hogwarts™ Moment: Herbology Class
+- [76385](https://www.lego.com/en-us/product/hogwarts-moment-charms-class-76385) - Hogwarts™ Moment: Charms Class
 
 <br /><br />
 
