@@ -3,6 +3,16 @@
 <p align="center">List of LEGO® Bricks I already own</p>
 
 <div align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/speed-champions.png" align="right" />
+</div>
+
+## Speed Champions
+
+- [76895](https://www.lego.com/en-us/product/ferrari-f8-tributo-76895) - Ferrari F8 Tributo
+
+<br /><br />
+
+<div align="right">
   <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/harry-potter.png" align="right" />
 </div>
 
