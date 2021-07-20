@@ -3,17 +3,6 @@
 <p align="center">List of LEGO® Bricks I already own</p>
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/speed-champions.png" align="right" />
-</div>
-
-## Speed Champions
-
-- [75892](https://www.lego.com/en-us/product/mclaren-senna-75892) - McLaren Senna
-- [76895](https://www.lego.com/en-us/product/ferrari-f8-tributo-76895) - Ferrari F8 Tributo
-
-<br /><br />
-
-<div align="right">
   <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/harry-potter.png" align="right" />
 </div>
 
@@ -92,6 +81,17 @@
 - [42105](https://www.lego.com/en-us/product/catamaran-42105) - Catamaran
 - [42107](https://www.lego.com/en-us/product/ducati-panigale-v4-r-42107) - Ducati Panigale V4 R
 - [42108](https://www.lego.com/en-us/product/mobile-crane-42108) - Mobile Crane
+
+<br /><br />
+
+<div align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/speed-champions.png" align="right" />
+</div>
+
+## Speed Champions
+
+- [75892](https://www.lego.com/en-us/product/mclaren-senna-75892) - McLaren Senna
+- [76895](https://www.lego.com/en-us/product/ferrari-f8-tributo-76895) - Ferrari F8 Tributo
 
 <br /><br />
 
