@@ -90,6 +90,7 @@
 
 ## Speed Champions
 
+- [75890](https://www.lego.com/en-us/product/ferrari-f40-competizione-75890) - Ferrari F40 Competizione
 - [75892](https://www.lego.com/en-us/product/mclaren-senna-75892) - McLaren Senna
 - [76895](https://www.lego.com/en-us/product/ferrari-f8-tributo-76895) - Ferrari F8 Tributo
 
