@@ -57,6 +57,16 @@
 <br /><br />
 
 <div align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-dots.png" align="right" />
+</div>
+
+## LEGO® DOTS
+
+- [41910](https://www.lego.com/en-us/product/ice-cream-besties-bracelets-41910) - Ice Cream Besties Bracelets
+
+<br /><br />
+
+<div align="right">
   <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-ideas.png" align="right" />
 </div>
 
