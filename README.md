@@ -80,7 +80,7 @@
   <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-technic.png" align="right" />
 </div>
 
-## LEGO® TECHNIC
+## LEGO® Technic
 
 - [42092](https://www.lego.com/en-us/product/rescue-helicopter-42092) - Rescue Helicopter
 - [42093](https://www.lego.com/en-us/product/chevrolet-corvette-zr1-42093) - Chevrolet Corvette ZR1
@@ -91,6 +91,7 @@
 - [42105](https://www.lego.com/en-us/product/catamaran-42105) - Catamaran
 - [42107](https://www.lego.com/en-us/product/ducati-panigale-v4-r-42107) - Ducati Panigale V4 R
 - [42108](https://www.lego.com/en-us/product/mobile-crane-42108) - Mobile Crane
+- [42123](https://www.lego.com/en-us/product/mclaren-senna-gtr-42123) - McLaren Senna GTR™
 
 <br /><br />
 
