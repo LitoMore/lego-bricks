@@ -109,8 +109,9 @@
 
 <br /><br />
 
-## Others
+## Other
 
+- [40411](https://www.lego.com/en-us/product/creative-fun-12-in-1-40411) - Creative Fun 12-in-1
 - [853960](https://www.lego.com/en-us/product/lego-2x6-key-chain-853960) - LEGO® 2x6 Key Chain
 
 <br /><br />
