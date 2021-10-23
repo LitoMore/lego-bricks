@@ -109,6 +109,16 @@
 
 <br /><br />
 
+<div align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/star-wars.png" align="right" />
+</div>
+
+## Star Wars™
+
+- [75317](https://www.lego.com/en-us/product/the-mandalorian-the-child-75317) - The Mandalorian™ & the Child
+
+<br /><br />
+
 ## Other
 
 - [40411](https://www.lego.com/en-us/product/creative-fun-12-in-1-40411) - Creative Fun 12-in-1
