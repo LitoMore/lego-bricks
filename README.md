@@ -122,6 +122,7 @@
 ## Other
 
 - [40411](https://www.lego.com/en-us/product/creative-fun-12-in-1-40411) - Creative Fun 12-in-1
+- [50516](https://www.lego.com/en-us/product/everyone-is-awesome-40516) - Everyone Is Awesome
 - [853960](https://www.lego.com/en-us/product/lego-2x6-key-chain-853960) - LEGO® 2x6 Key Chain
 
 <br /><br />
