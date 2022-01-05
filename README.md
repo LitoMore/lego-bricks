@@ -63,6 +63,7 @@
 ## LEGO® DOTS
 
 - [41910](https://www.lego.com/en-us/product/ice-cream-besties-bracelets-41910) - Ice Cream Besties Bracelets
+- [41935](https://www.lego.com/en-us/product/lots-of-dots-41935) - Lots of DOTS
 
 <br /><br />
 
