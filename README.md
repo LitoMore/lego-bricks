@@ -81,7 +81,7 @@
   <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-technic.png" align="right" />
 </div>
 
-## LEGO® Technic
+## LEGO® Technic™
 
 - [42092](https://www.lego.com/en-us/product/rescue-helicopter-42092) - Rescue Helicopter
 - [42093](https://www.lego.com/en-us/product/chevrolet-corvette-zr1-42093) - Chevrolet Corvette ZR1
