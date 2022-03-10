@@ -57,6 +57,16 @@
 <br /><br />
 
 <div align="right">
+  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-creator-expert.png" align="right" />
+</div>
+
+## LEGO® Creator Expert
+
+- [10295](https://www.lego.com/en-us/product/porsche-911-10295) - Porsche 911
+
+<br /><br />
+
+<div align="right">
   <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-dots.png" align="right" />
 </div>
 
