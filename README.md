@@ -142,3 +142,4 @@
 
 - [Games](https://github.com/LitoMore/games) - My video games
 - [Transformers](https://github.com/LitoMore/transformers) - My Transformers toys
+- [Tamiya Toys](https://github.com/LitoMore/tamiya-toys) - My Tamiya toys
