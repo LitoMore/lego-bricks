@@ -16,7 +16,11 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-architecture.png" align="right" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-architecture-darkmode.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-architecture.png" />
+    <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-architecture.png" align="right" />
+  </picture>
 </div>
 
 ## LEGO® Architecture
@@ -36,7 +40,11 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-classic.png" align="right" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-classic-darkmode.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-classic.png" />
+    <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-classic.png" align="right" />
+  </picture>
 </div>
 
 ## LEGO® CLASSIC
@@ -78,7 +86,11 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-ideas.png" align="right" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-ideas-darkmode.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-ideas.png" />
+    <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-ideas.png" align="right" />
+  </picture>
 </div>
 
 ## LEGO® IDEAS
@@ -121,7 +133,11 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/star-wars.png" align="right" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/star-wars-darkmode.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/star-wars.png" />
+    <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/star-wars.png" align="right" />
+  </picture>
 </div>
 
 ## Star Wars™
