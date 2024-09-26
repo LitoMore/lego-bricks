@@ -3,7 +3,7 @@
 <p align="center">List of LEGO® Bricks I already own</p>
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/harry-potter.webp" align="right" />
+  <img height="42" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/harry-potter.webp" align="right" />
 </div>
 
 ## Harry Potter™
@@ -19,7 +19,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-architecture-darkmode.webp" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-architecture.webp" />
-    <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-architecture.webp" align="right" />
+    <img height="42" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-architecture.webp" align="right" />
   </picture>
 </div>
 
@@ -30,7 +30,7 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-city.webp" align="right" />
+  <img height="42" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-city.webp" align="right" />
 </div>
 
 ## LEGO® CITY
@@ -43,7 +43,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-classic-darkmode.webp" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-classic.webp" />
-    <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-classic.webp" align="right" />
+    <img height="42" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-classic.webp" align="right" />
   </picture>
 </div>
 
@@ -55,7 +55,7 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-creator.webp" align="right" />
+  <img height="42" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-creator.webp" align="right" />
 </div>
 
 ## LEGO® CREATOR
@@ -65,7 +65,7 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-creator-expert.webp" align="right" />
+  <img height="42" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-creator-expert.webp" align="right" />
 </div>
 
 ## LEGO® Creator Expert
@@ -75,7 +75,7 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-dots.webp" align="right" />
+  <img height="42" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-dots.webp" align="right" />
 </div>
 
 ## LEGO® DOTS
@@ -89,7 +89,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-ideas-darkmode.webp" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-ideas.webp" />
-    <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-ideas.webp" align="right" />
+    <img height="42" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-ideas.webp" align="right" />
   </picture>
 </div>
 
@@ -100,7 +100,7 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-technic.webp" align="right" />
+  <img height="42" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/lego-technic.webp" align="right" />
 </div>
 
 ## LEGO® Technic™
@@ -119,7 +119,7 @@
 <br /><br />
 
 <div align="right">
-  <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/speed-champions.webp" align="right" />
+  <img height="42" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/speed-champions.webp" align="right" />
 </div>
 
 ## Speed Champions
@@ -136,7 +136,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/star-wars-darkmode.webp" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/star-wars.webp" />
-    <img height="50px" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/star-wars.webp" align="right" />
+    <img height="42" src="https://raw.githubusercontent.com/LitoMore/lego-bricks/main/media/star-wars.webp" align="right" />
   </picture>
 </div>
 
